@@ -1,0 +1,25 @@
+---
+
+## 📘 Task 2 – Top-Level Orientation: caravel.v
+
+### ✅ 1. Four Submodules Instantiated in `caravel.v`
+
+- `user_project_wrapper`
+- `digital_core`
+- `gpio_control_block`
+- `housekeeping`
+
+### ✅ 2. Signals Crossing the “Management Protect” Boundary
+
+- SPI Interface:
+  - `mprj_io[8]` → `user_flash_csb`
+  - `mprj_io[9]` → `user_flash_sck`
+  - `mprj_io[10]` → `user_flash_io0`
+  - `mprj_io[11]` → `user_flash_io1`
+- Wishbone bus signals (user → mgmt boundary)
+
+### ✅ 3. Clock & Reset Synchronization
+
+- Clock: `clk` is directly connected to most submodules.
+- Reset: Active low (`resetb`) connected to the core and wrappers.
+
