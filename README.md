@@ -1,4 +1,4 @@
-# ✅ RISC-V Phase2--Task 2: Local Setup Check and ISA Instruction Decoding
+# ✅ RISC-V Phase2--Week 2: Local Setup Check and ISA Instruction Decoding
 
 ---
 
