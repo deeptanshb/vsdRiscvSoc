@@ -1,6 +1,6 @@
 ## 🧾 **Title**
 
-> **Phase 2: RISC-V Toolchain Tasks & System Validation using Spike and Proxy Kernel**
+> **Phase 2--Week 1: RISC-V Toolchain Tasks & System Validation using Spike and Proxy Kernel**
 
 ---
 
