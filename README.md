@@ -500,16 +500,6 @@ Manually decode at least **5 integer instructions** from `.s` or `.objdump` outp
 
 ---
 
-## ✅ Tool Checks (for README)
-
-### Spike available:
-```bash
-which spike
-```
-### Output:
-<img width="801" height="124" alt="Screenshot from 2025-08-02 16-51-13" src="https://github.com/user-attachments/assets/6f5bf46d-8773-435c-a99a-acfcda404d30" />
-
----
 
 ## 🏁 Conclusion
 
