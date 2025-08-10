@@ -93,9 +93,12 @@ sudo make install
 ```bash
 which pk
 spike pk --help
+spike --help | head -n 1
 ```
 ## Output:
 <img width="801" height="98" alt="image" src="https://github.com/user-attachments/assets/d6d3557d-a65a-49d4-8430-cabd4cec103d" />
+<img width="784" height="92" alt="Screenshot from 2025-08-10 12-18-02" src="https://github.com/user-attachments/assets/65ecea5e-93f0-44c9-8b32-c6974dfc3096" />
+
 
 ## 🧠 Task 9 — Create unique_test.c
 ```bash
