@@ -1,4 +1,8 @@
 ## 🧾 **Title**
+
+> **Phase 2--Week 1: RISC-V Toolchain Tasks & System Validation using Spike and Proxy Kernel**
+
+---
 ## 🎯 **Objective**
 
 The objective of this phase is to extend the RISC-V toolchain workflow by setting up and validating the full bare-metal execution flow using:
